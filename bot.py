@@ -98,11 +98,11 @@ class Chat:
         min_duration, split_count = song.get_duration(self, result)
 
         if int(min_duration) < 30 and split_count < 3:
-            file_name = song.get_title(self, result) +' - @songdownload597_bot '+str(randint(0,999999))+'.mp3'
+            file_name = song.get_title(self, result) +' - @Musiccsongbot '+str(randint(0,999999))+'.mp3'
             file_name = file_name.replace('"', '')
 
             self.send_message(f"🎵 {song.get_title(self, result)}\n🔗 {song.get_link(self, result)}")
-            downloading_message = self.send_message('⬇️ Downloading... \n_(this may take a while.)_')
+            downloading_message = self.send_message('🎶 Musiqi Yüklənir 📥... \n_ℹ Yüklənmə vaxt tələb edə bilər._')
 
             song.download_song(self, file_name, song.get_link(self, result))
 
