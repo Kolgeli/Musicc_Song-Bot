@@ -5,9 +5,9 @@
 <br>
   <img src="https://img.shields.io/github/stars/Kolgeli/Musicc_Song-Bot?style=for-the-badge" alt="Stars">
   <img src="https://img.shields.io/github/forks/Kolgeli/Musicc-Song-Bot?style=for-the-badge" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/Kilgeli/Musicc-Song-Bot?style=for-the-badge" alt="Watchers">
+  <img src="https://img.shields.io/github/watchers/Kolgeli/Musicc-Song-Bot?style=for-the-badge" alt="Watchers">
 <br>
-  <img src="https://img.shields.io/github/license/Kilgeli/Musicc-Song-Bot?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/license/Kolgeli/Musicc-Song-Bot?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/github/repo-size/Kolgeli/Musicc-Song-Bot?style=for-the-badge" alt="Repository Size">
   <img src="https://img.shields.io/github/contributors/Kolgeli/Musicc-Song-Bot?style=for-the-badge" alt="Contributers">
   <img src="https://img.shields.io/github/issues/github/Kolgeli/Musicc-Song-Bot?style=for-the-badge" alt="Issues">
@@ -15,7 +15,7 @@
 <br>
 </p>
 
-## Click to reach <a href="https://t.me/songdownload597_bot">Song Dwonload bot</a> 💫
+## Click to reach <a href="https://t.me/Musiccsongbot">Song Dwonload bot</a> 💫
 
 <br>
 
