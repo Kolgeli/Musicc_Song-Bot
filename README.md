@@ -3,14 +3,14 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-  <img src="https://img.shields.io/github/stars/sanila2007/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/github/forks/sanila2007/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Forks">
-  <img src="https://img.shields.io/github/watchers/sanila2007/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Watchers">
+  <img src="https://img.shields.io/github/stars/Kolgeli/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/forks/Kolgeli/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/Kilgeli/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Watchers">
 <br>
-  <img src="https://img.shields.io/github/license/sanila2007/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/repo-size/sanila2007/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Repository Size">
-  <img src="https://img.shields.io/github/contributors/sanila2007/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Contributers">
-  <img src="https://img.shields.io/github/issues/github/sanila2007/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Issues">
+  <img src="https://img.shields.io/github/license/Kilgeli/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/repo-size/Kolgeli/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Repository Size">
+  <img src="https://img.shields.io/github/contributors/Kolgeli/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Contributers">
+  <img src="https://img.shields.io/github/issues/github/Kolgeli/Telegram-Song-Downloader-Bot?style=for-the-badge" alt="Issues">
 <br>
 <br>
 </p>
@@ -89,4 +89,4 @@ class Chat:
 
 ## Developer 🤗
 
-[Sanila Ranatunga](https://github.com/sanila2007)
+[Sanila Ranatunga](https://github.com/Kolgeli)
